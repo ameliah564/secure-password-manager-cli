@@ -1,6 +1,6 @@
 ---
 
-# 2️⃣ SECURE PASSWORD MANAGER
+# SECURE PASSWORD MANAGER
 
 ### `secure-password-manager-cli/README.md`
 
